@@ -1,19 +1,19 @@
 
 
-[gitcode能跳-案例一](#custom-anchor)
+[gitcode能跳- GitHub能跳-案例一](#custom-anchor)
 
-[gitcode跳不了-案例二](#unique-id)
+[gitcode跳不了-GitHub能跳-案例二](#unique-id)
 
-[gitcode跳不了-案例三，两个杠](#案例三和四func-getkvstoretstring-kvoptions-where-t--singlekvstore)
+[gitcode跳不了-GitHub能跳-案例三，两个杠](#案例三和四：func-getkvstoretstring-kvoptions-where-t--singlekvstore)
 
-[gitcode能跳- GitHub跳不了-案例四，一个杠](#案例三和四func-getkvstoretstring-kvoptions-where-t-singlekvstore)
+[gitcode能跳-GitHub跳不了-案例四，一个杠](#案例三和四：func-getkvstoretstring-kvoptions-where-t-singlekvstore)
 
 <a id="custom-anchor"></a>
 ## 案例一：id-custom-anchor
 
 <h2 id="unique-id">案例二：id-unique-id</h2>
 
-### 案例三和四func getKVStore\<T>(String, KVOptions) where T \<: SingleKVStore
+### 案例三和四：func getKVStore\<T>(String, KVOptions) where T \<: SingleKVStore
 
 
 

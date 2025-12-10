@@ -3,6 +3,9 @@
 [^1]: 第一个注脚。
 [^note]: 第二个注脚。
 
+[^demo]: 此处使能的特性包含本文[5.1](## 案例一：id-custom-anchor)
+[^demo]: 第三个注脚。
+
 -----------------
 
 [gitcode能跳- GitHub能跳-案例一](#custom-anchor)

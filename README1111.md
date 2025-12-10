@@ -1,4 +1,7 @@
+[^1]: 注脚功能测试 [官网](https://gitcode.com)。
 
+
+-----------------
 
 [gitcode能跳- GitHub能跳-案例一](#custom-anchor)
 
